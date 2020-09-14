@@ -1,0 +1,39 @@
+.first-vertical {
+    position: relative;
+    writing-mode: vertical-lr;
+    font-size: 3.6em;
+    float: right;
+    white-space: nowrap;
+    color: rgba(255, 255, 255, 0.24);
+    font-weight: 900;
+    height: 100%;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.gac {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.gac-background {
+    background-size: 100% 100%;
+    background-image: url(https://www.softprodigy.com/wp-content/themes/softprodigy-2019/img/home-portfolio/first.png);
+    background-repeat: no-repeat;
+    width: 50%;
+}
+
+.gac-head {
+    position: relative; 
+    top: 40%; 
+    left: 10%;
+}
+
+.gac-right-section {
+    background-image: url(https://www.softprodigy.com/wp-content/themes/softprodigy-2019/img/home-portfolio/first-right.png); 
+    background-size: 100% 100%; 
+    background-repeat: no-repeat; 
+    width: 50%;
+}

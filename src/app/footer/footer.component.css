@@ -1,0 +1,70 @@
+.footer-header {
+    background-color: #074e9b; 
+    overflow:hidden; 
+    background-image: url(https://www.softprodigy.com/wp-content/themes/softprodigy-2019/img/line_shape.png);
+    padding-left: 50px;
+    padding-right: 50px; 
+    padding-top: 50px;
+}
+
+.footer-row {
+    color: white;
+}
+
+.footer-col {
+    display: flex; 
+    flex-direction: column; 
+    font-size: 15px;
+}
+
+.footer-quick-link {
+    font-weight: bolder; 
+    font-size: 20px; 
+    margin-bottom: 10px;
+}
+
+.footer-quick-link-div {
+    display: flex; 
+    flex-direction: row; 
+    margin-top: 15px;
+}
+
+.footer-quick-link-div-inner-1 {
+    display: flex; 
+    flex-direction: column; 
+    margin-right: 30px; 
+    font-size: 15px;
+}
+
+.footer-quick-link-div-inner-2 {
+    display: flex; 
+    flex-direction: column; 
+    font-size: 15px;
+}
+
+.footer-soft-image {
+    display: flex; 
+    flex-direction: column; 
+    margin-top: 10px;
+}
+
+.badge-div {
+    display: flex; 
+    flex-direction: row; 
+    margin-top: 10px;
+}
+
+.badge-img {
+    padding-right: 10px; 
+    width: 80px; 
+    height: 75px;
+}
+
+.star-div {
+    text-align: center; 
+    color: white; 
+    display: flex; 
+    flex-direction: column; 
+    padding-bottom: 30px; 
+    padding-top: 30px;
+}

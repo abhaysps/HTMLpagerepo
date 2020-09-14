@@ -1,0 +1,30 @@
+/* 
+.smart-scroll{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+  .scrolled-down{
+     transform:translateY(-100%); transition: all 0.3s ease-in-out;
+  }
+  .scrolled-up{
+     transform:translateY(0); transition: all 0.3s ease-in-out;
+  }
+
+  .tags {
+      padding: 10px 10px
+  }
+
+  .contact {
+      background-color: orange;
+      border-radius: 20px
+  }
+  .contact-text {
+      padding: 10px
+  }
+
+  .nav-top {
+      background-color: white !important;
+  } */
